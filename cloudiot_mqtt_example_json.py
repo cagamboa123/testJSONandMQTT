@@ -1,4 +1,4 @@
-gcpstaging20941_student@iot-device-simulator:~/training-data-analyst/quests/iotlab$ cat cloudiot_mqtt_example_json.py
+
 #!/usr/bin/env python
 
 # Copyright 2017 Google Inc.
